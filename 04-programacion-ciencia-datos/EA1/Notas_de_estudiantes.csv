@@ -1,0 +1,196 @@
+﻿ID_Estudiante,Nombre,Edad,Carrera,Seccion,Ciudad,Nota,Asistencia
+139,Pedro,22.0,Administración,C,Concepción,4.6,99.0
+17,Pedro,23.0,Administración,A,Temuco,3.7,87.0
+156,Isidora,21.0,Marketing,A,STGO,5.9,91.0
+97,Carlos,22.0,Contabilidad,C,Valparaíso,4.7,81.0
+69,María,18.0,Recursos Humanos,C,Santiago,4.5,89.0
+154,Carlos,18.0,Informática,A,Concepción,7.0,84.0
+56,Catalina,23.0,Recursos Humanos,A,Valparaíso,6.0,100.0
+16,María,19.0,Recursos Humanos,A,Concepción,4.9,94.0
+113,Carlos,19.0,Administración,C,santiago,,88.0
+112,Felipe,19.0,Contabilidad,B,Valparaíso,6.2,82.0
+30,Felipe,22.0,Marketing,B,Temuco,4.8,89.0
+19,Fernanda,25.0,Contabilidad,B,Valparaíso,6.1,75.0
+83,Benjamín,20.0,Recursos Humanos,C,La Serena,4.7,100.0
+10,Constanza,23.0,Contabilidad,A,santiago,4.8,81.0
+165,Matías,22.0,Administración,B,Temuco,4.5,99.0
+118,Carlos,26.0,Ingeniería de Datos,B,La Serena,,82.0
+70,Pedro,23.0,Administración,A,Temuco,5.8,100.0
+114,Javiera,20.0,Ingeniería de Datos,B,Valparaíso,4.6,86.0
+52,Josefa,22.0,Marketing,B,santiago,5.6,76.0
+120,Juan,21.0,Ingeniería de Datos,B,STGO,5.6,75.0
+124,Javiera,19.0,Marketing,A,Concepción,5.3,88.0
+145,Isidora,21.0,Ingeniería de Datos,B,Valparaíso,5.9,99.0
+67,Benjamín,22.0,Administración,B,Puerto Montt,4.3,87.0
+46,Pedro,26.0,Recursos Humanos,B,santiago,4.6,80.0
+159,Benjamín,26.0,Contabilidad,C,Puerto Montt,5.1,89.0
+116,Martina,22.0,Administración,A,,4.0,69.0
+68,Sofía,23.0,Ingeniería de Datos,B,santiago,6.3,94.0
+94,Ignacio,20.0,Marketing,B,santiago,5.4,90.0
+31,Paula,22.0,Administración,A,Puerto Montt,6.2,76.0
+102,Antonia,23.0,Contabilidad,A,Puerto Montt,5.3,85.0
+119,Antonia,21.0,Marketing,B,La Serena,4.4,83.0
+76,María,25.0,Marketing,C,Santiago,5.4,73.0
+25,Martina,21.0,Ingeniería de Datos,B,Temuco,6.7,57.0
+173,Josefa,,Contabilidad,B,Temuco,4.4,84.0
+128,Vicente,20.0,Contabilidad,C,santiago,3.4,78.0
+170,Pedro,19.0,Recursos Humanos,B,STGO,5.3,75.0
+20,Ignacio,21.0,Contabilidad,C,santiago,5.6,93.0
+169,Pablo,20.0,Informática,C,Santiago,4.9,78.0
+74,Valentina,22.0,Informática,C,Puerto Montt,7.0,65.0
+6,Tomás,20.0,Administración,C,,4.4,87.0
+136,Josefa,23.0,Informática,B,Valparaíso,4.3,82.0
+123,Benjamín,22.0,Marketing,C,santiago,5.3,84.0
+168,Martina,27.0,Informática,A,Santiago,7.5,89.0
+86,Ignacio,20.0,Recursos Humanos,B,Puerto Montt,6.4,76.0
+57,Pedro,21.0,Ingeniería de Datos,B,santiago,4.6,75.0
+96,Isidora,18.0,Ingeniería de Datos,C,STGO,5.2,89.0
+36,Tomás,23.0,Ingeniería de Datos,C,santiago,7.0,85.0
+145,Isidora,21.0,Ingeniería de Datos,B,Valparaíso,5.9,99.0
+43,Vicente,19.0,Contabilidad,B,Santiago,4.8,84.0
+66,Luis,23.0,Marketing,B,STGO,4.5,85.0
+105,Tomás,24.0,Ingeniería de Datos,B,STGO,6.0,97.0
+160,Benjamín,22.0,Ingeniería de Datos,A,Temuco,7.0,95.0
+79,María,28.0,Marketing,A,STGO,5.9,63.0
+77,Felipe,19.0,Contabilidad,A,Santiago,5.9,76.0
+30,Felipe,22.0,Marketing,B,Temuco,4.8,89.0
+137,Francisca,22.0,Informática,C,STGO,5.8,91.0
+61,Camila,23.0,Ingeniería de Datos,C,Temuco,4.5,73.0
+52,Josefa,22.0,Marketing,B,santiago,5.6,76.0
+166,Matías,23.0,Ingeniería de Datos,B,La Serena,4.4,82.0
+39,Josefa,21.0,Ingeniería de Datos,C,Concepción,5.6,83.0
+32,Pedro,21.0,Ingeniería de Datos,A,STGO,0.5,69.0
+174,Carlos,24.0,Informática,B,santiago,3.8,89.0
+13,Tomás,22.0,Ingeniería de Datos,B,santiago,3.5,70.0
+110,Pablo,24.0,Administración,A,STGO,5.9,90.0
+42,Diego,,Contabilidad,A,Santiago,5.8,100.0
+133,Ignacio,18.0,Recursos Humanos,A,Concepción,6.5,82.0
+101,María,19.0,Ingeniería de Datos,B,STGO,4.8,91.0
+27,Luis,22.0,Recursos Humanos,B,,3.5,81.0
+129,Felipe,19.0,Contabilidad,C,Concepción,5.4,87.0
+13,Tomás,22.0,Ingeniería de Datos,B,santiago,3.5,70.0
+99,Francisca,,Informática,B,Santiago,4.7,92.0
+3,,26.0,Recursos Humanos,C,santiago,6.0,79.0
+47,Constanza,24.0,Marketing,A,STGO,4.2,86.0
+138,Ignacio,18.0,Ingeniería de Datos,B,La Serena,,96.0
+91,Paula,26.0,Contabilidad,A,Puerto Montt,4.0,95.0
+146,Fernanda,22.0,Recursos Humanos,C,Puerto Montt,6.8,70.0
+37,Ignacio,22.0,Marketing,B,La Serena,5.2,64.0
+3,,26.0,Recursos Humanos,C,santiago,6.0,79.0
+23,Pablo,21.0,Recursos Humanos,C,Valparaíso,6.2,87.0
+127,,28.0,Informática,A,La Serena,4.6,75.0
+148,Josefa,21.0,Administración,B,La Serena,3.4,83.0
+34,Vicente,21.0,Ingeniería de Datos,B,Temuco,4.0,79.0
+12,Vicente,18.0,Contabilidad,A,Puerto Montt,6.0,71.0
+125,María,26.0,Recursos Humanos,B,Santiago,6.2,100.0
+155,Sofía,19.0,Contabilidad,B,La Serena,7.8,82.0
+7,Sofía,19.0,Informática,C,Concepción,4.0,98.0
+28,Isidora,,Recursos Humanos,B,STGO,6.6,78.0
+162,Sebastián,22.0,Marketing,B,Puerto Montt,9.0,69.0
+5,Pedro,22.0,Administración,A,Santiago,3.6,66.0
+33,Antonia,22.0,Administración,C,Temuco,5.5,84.0
+144,Javiera,18.0,Administración,A,Santiago,4.2,63.0
+141,María,28.0,Administración,B,santiago,6.9,81.0
+98,Catalina,20.0,Contabilidad,A,Concepción,4.8,92.0
+140,Sofía,22.0,Administración,A,Santiago,6.4,84.0
+11,Javiera,20.0,Ingeniería de Datos,B,La Serena,7.0,83.0
+63,Sebastián,23.0,Recursos Humanos,A,santiago,5.2,75.0
+48,Ignacio,25.0,Informática,C,STGO,3.9,85.0
+142,Josefa,24.0,Informática,C,Valparaíso,,
+1,Antonia,23.0,Ingeniería de Datos,A,Concepción,5.2,90.0
+175,Matías,20.0,Ingeniería de Datos,C,Santiago,5.8,76.0
+149,Constanza,18.0,Informática,C,Temuco,5.9,87.0
+71,Matías,23.0,Informática,A,Temuco,6.3,93.0
+115,Luis,22.0,Informática,B,Concepción,4.8,79.0
+65,Rodrigo,22.0,Ingeniería de Datos,A,Valparaíso,4.2,85.0
+45,María,,Administración,C,santiago,5.7,74.0
+126,Francisca,19.0,Marketing,C,Valparaíso,6.1,85.0
+29,Carlos,52.0,Administración,A,Concepción,4.8,93.0
+41,,24.0,Recursos Humanos,B,Valparaíso,4.5,98.0
+7,Sofía,19.0,Informática,C,Concepción,4.0,98.0
+151,Felipe,21.0,Informática,B,Concepción,6.2,74.0
+46,Pedro,26.0,Recursos Humanos,B,santiago,4.6,80.0
+26,Carlos,24.0,Ingeniería de Datos,A,La Serena,,81.0
+24,Ignacio,20.0,Contabilidad,A,Valparaíso,5.6,99.0
+147,María,18.0,Marketing,A,santiago,5.3,
+143,Catalina,19.0,Recursos Humanos,B,Puerto Montt,5.9,
+82,Daniela,24.0,Marketing,A,santiago,4.2,80.0
+109,Paula,18.0,Marketing,B,STGO,4.2,95.0
+80,Pedro,22.0,Marketing,A,Valparaíso,4.7,92.0
+85,Sofía,28.0,Contabilidad,B,STGO,6.2,68.0
+40,Francisca,18.0,Administración,C,santiago,6.3,91.0
+62,Paula,23.0,Informática,B,Puerto Montt,5.1,
+121,Daniela,23.0,Contabilidad,A,santiago,6.7,82.0
+87,Andrés,23.0,Ingeniería de Datos,A,Puerto Montt,6.0,74.0
+78,Daniela,22.0,Informática,C,STGO,5.3,77.0
+9,Andrés,20.0,Contabilidad,A,Valparaíso,5.4,72.0
+164,Sebastián,,Informática,C,Valparaíso,5.3,98.0
+48,Ignacio,25.0,Informática,C,STGO,3.9,85.0
+95,Isidora,26.0,Administración,B,santiago,,100.0
+178,Sofía,18.0,Administración,A,,5.2,71.0
+44,Camila,20.0,Contabilidad,B,Valparaíso,3.9,84.0
+157,Diego,20.0,Administración,B,STGO,4.8,81.0
+4,Daniela,23.0,Informática,A,Santiago,4.9,79.0
+106,Benjamín,22.0,Administración,A,Concepción,5.9,80.0
+54,Juan,23.0,Marketing,C,Valparaíso,4.4,91.0
+134,Javiera,25.0,Marketing,A,Concepción,3.9,78.0
+176,Paula,16.0,Administración,C,santiago,3.8,84.0
+153,,21.0,Marketing,B,Valparaíso,4.4,78.0
+106,Benjamín,22.0,Administración,A,Concepción,5.9,80.0
+50,Luis,18.0,Marketing,C,,5.8,86.0
+81,Javiera,19.0,Ingeniería de Datos,C,Valparaíso,5.2,89.0
+35,Vicente,20.0,Informática,C,Concepción,,
+8,Rodrigo,21.0,Ingeniería de Datos,A,Temuco,,69.0
+111,Isidora,21.0,Informática,A,STGO,10.0,84.0
+92,Martina,22.0,Marketing,C,Concepción,4.4,88.0
+84,Pablo,23.0,Contabilidad,A,La Serena,4.2,93.0
+172,Carlos,19.0,Informática,B,Valparaíso,,91.0
+177,Constanza,22.0,Recursos Humanos,A,Santiago,4.5,90.0
+90,Diego,18.0,Contabilidad,A,Valparaíso,4.9,85.0
+9,Andrés,20.0,Contabilidad,A,Valparaíso,5.4,72.0
+14,Tomás,22.0,Contabilidad,C,La Serena,6.0,85.0
+60,Sofía,26.0,Informática,B,Valparaíso,5.1,100.0
+167,Ignacio,19.0,Recursos Humanos,B,STGO,4.1,93.0
+132,Luis,27.0,Informática,C,Temuco,,79.0
+18,Carlos,20.0,Informática,C,La Serena,4.7,90.0
+73,Juan,19.0,Informática,B,Puerto Montt,5.1,79.0
+171,Sebastián,22.0,Informática,A,Santiago,5.3,81.0
+135,Valentina,22.0,Administración,B,La Serena,5.3,79.0
+163,Juan,20.0,Contabilidad,B,Temuco,4.3,100.0
+179,Sofía,20.0,Administración,B,santiago,5.3,75.0
+64,María,,Informática,C,La Serena,4.9,92.0
+55,Daniela,25.0,Administración,A,santiago,0.0,93.0
+108,,23.0,Administración,C,santiago,4.6,100.0
+51,Catalina,22.0,Contabilidad,B,La Serena,5.6,77.0
+72,Isidora,23.0,Ingeniería de Datos,A,Temuco,5.0,91.0
+59,Luis,22.0,Marketing,A,Puerto Montt,6.0,84.0
+49,Carlos,22.0,Marketing,C,Temuco,6.0,71.0
+89,Tomás,21.0,Administración,C,Concepción,4.2,100.0
+22,Fernanda,18.0,Informática,B,Concepción,6.0,97.0
+58,,19.0,Administración,B,Puerto Montt,5.2,87.0
+161,Javiera,21.0,Marketing,C,,4.4,67.0
+58,,19.0,Administración,B,Puerto Montt,5.2,87.0
+130,Ignacio,27.0,Informática,B,Temuco,6.2,78.0
+38,Camila,21.0,Contabilidad,B,,8.2,100.0
+158,Catalina,,Administración,A,,3.9,97.0
+102,Antonia,23.0,Contabilidad,A,Puerto Montt,5.3,85.0
+2,Sofía,26.0,Administración,A,santiago,5.1,81.0
+53,Sofía,99.0,Administración,A,La Serena,-1.0,72.0
+150,Martina,19.0,Marketing,B,STGO,4.8,73.0
+131,Catalina,19.0,Contabilidad,C,STGO,5.7,70.0
+152,Constanza,23.0,Administración,C,Concepción,4.8,76.0
+104,Camila,21.0,Ingeniería de Datos,C,STGO,5.1,94.0
+100,Pedro,22.0,Recursos Humanos,B,Concepción,6.0,90.0
+117,Ignacio,19.0,Administración,B,La Serena,5.1,87.0
+88,Vicente,21.0,Marketing,A,santiago,2.4,73.0
+75,Diego,24.0,Administración,B,Valparaíso,3.8,79.0
+122,Vicente,23.0,Informática,B,La Serena,5.9,79.0
+19,Fernanda,25.0,Contabilidad,B,Valparaíso,6.1,75.0
+21,Vicente,20.0,Recursos Humanos,A,Valparaíso,5.1,72.0
+160,Benjamín,22.0,Ingeniería de Datos,A,Temuco,7.0,95.0
+72,Isidora,23.0,Ingeniería de Datos,A,Temuco,5.0,91.0
+107,Paula,22.0,Ingeniería de Datos,B,Valparaíso,5.2,84.0
+15,Daniela,,Administración,C,santiago,5.0,69.0
+93,Vicente,22.0,Recursos Humanos,C,Santiago,4.8,84.0
+180,Daniela,,Administración,B,Concepción,6.2,78.0
+103,Tomás,25.0,Recursos Humanos,B,Santiago,4.8,89.0
